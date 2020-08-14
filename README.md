@@ -1,1 +1,1 @@
-# Crazy-Fuit-App
+# Crazy-Fruit-App
